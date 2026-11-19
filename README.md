@@ -1,9 +1,9 @@
 ﻿# Blog Dinámico en PHP y MySQL
 
 **Universidad Interamericana de Panamá**  
-**Materia:** Estructura de Datos  
+**Materia:** Programación  
 **Estudiante:** Jamil Marciaga  
-**Profesora:** María de Dimares  
+**Profesor:** Fernando Gómez  
 
 ## Descripción
 Sitio web dinámico tipo blog que carga artículos almacenados en una base de datos MySQL, utilizando PHP y HTML/CSS.
